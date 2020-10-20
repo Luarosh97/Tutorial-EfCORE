@@ -26,15 +26,15 @@ namespace EFGetStarted
                 blog.Posts.Add(
                     new Post
                     {
-                        Title = "Hola Mundo",
-                        Content = "I wrote an app using EF Core!"
+                        Title = "Hola Chicos",
+                        Content = "Vamos Hacer Un Tutorial De Ef-core"
                     });
                 db.SaveChanges();
 
                 // Delete
-                Console.WriteLine("Delete the blog");
-                db.Remove(blog);
-                db.SaveChanges();
+                //Console.WriteLine("Delete the blog");
+                //db.Remove(blog);
+                //db.SaveChanges();
             }
         }
     }

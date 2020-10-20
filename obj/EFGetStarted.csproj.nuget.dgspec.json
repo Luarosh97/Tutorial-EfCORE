@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rochety\\Desktop\\Tutorial\\EFGetStarted\\EFGetStarted.csproj": {}
+    "E:\\MATERIAS U\\Programacion Web\\Tutorial\\EFGetStarted\\EFGetStarted.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rochety\\Desktop\\Tutorial\\EFGetStarted\\EFGetStarted.csproj": {
+    "E:\\MATERIAS U\\Programacion Web\\Tutorial\\EFGetStarted\\EFGetStarted.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rochety\\Desktop\\Tutorial\\EFGetStarted\\EFGetStarted.csproj",
+        "projectUniqueName": "E:\\MATERIAS U\\Programacion Web\\Tutorial\\EFGetStarted\\EFGetStarted.csproj",
         "projectName": "EFGetStarted",
-        "projectPath": "C:\\Users\\Rochety\\Desktop\\Tutorial\\EFGetStarted\\EFGetStarted.csproj",
+        "projectPath": "E:\\MATERIAS U\\Programacion Web\\Tutorial\\EFGetStarted\\EFGetStarted.csproj",
         "packagesPath": "C:\\Users\\Rochety\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rochety\\Desktop\\Tutorial\\EFGetStarted\\obj\\",
+        "outputPath": "E:\\MATERIAS U\\Programacion Web\\Tutorial\\EFGetStarted\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rochety\\AppData\\Roaming\\NuGet\\NuGet.Config"

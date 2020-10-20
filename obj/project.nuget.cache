@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f/8z8QUl4KIt4U3ObrJ9eCNp4AeejVNxqUp7G4x+x4kLyDObbNMLEjLD8j2d4MR86kzn9AZSFF70EeeLM7toAw==",
+  "dgSpecHash": "LAMfYrUMdQxehQ4na/+Xr9BasLEuYPpf6S1HiLu3B4SLAkQwvjDOsc9S1FLReVfloy4vQgVbBHwbdKTCAL5s0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rochety\\Desktop\\Tutorial\\EFGetStarted\\EFGetStarted.csproj",
+  "projectFilePath": "E:\\MATERIAS U\\Programacion Web\\Tutorial\\EFGetStarted\\EFGetStarted.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rochety\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Rochety\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

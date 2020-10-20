@@ -1155,11 +1155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rochety\\Desktop\\Tutorial\\EFGetStarted\\EFGetStarted.csproj",
+      "projectUniqueName": "e:\\MATERIAS U\\Programacion Web\\Tutorial\\EFGetStarted\\EFGetStarted.csproj",
       "projectName": "EFGetStarted",
-      "projectPath": "C:\\Users\\Rochety\\Desktop\\Tutorial\\EFGetStarted\\EFGetStarted.csproj",
+      "projectPath": "e:\\MATERIAS U\\Programacion Web\\Tutorial\\EFGetStarted\\EFGetStarted.csproj",
       "packagesPath": "C:\\Users\\Rochety\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rochety\\Desktop\\Tutorial\\EFGetStarted\\obj\\",
+      "outputPath": "e:\\MATERIAS U\\Programacion Web\\Tutorial\\EFGetStarted\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rochety\\AppData\\Roaming\\NuGet\\NuGet.Config"

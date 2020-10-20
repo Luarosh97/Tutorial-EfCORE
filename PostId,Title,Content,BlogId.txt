@@ -1,0 +1,2 @@
+PostId,Title,Content,BlogId
+2,Hola Chicos,Vamos Hacer Un Tutorial De Ef-core,2
